@@ -1,0 +1,19 @@
+# ninja log v6
+16	698	7471857348784413	CMakeFiles/datum.dir/vezbi/datum.cpp.obj	d300e4f1b19e6e00
+700	975	7471857355624753	datum.exe	a9bc78b83e3ec8d1
+6	289	7471903555286213	CMakeFiles/webserver.dir/vezbi/webserver.cpp.obj	a428e0ee9759e5d4
+6	317	7472754669942554	CMakeFiles/tennis.dir/vezbi/tennisPlayer.cpp.obj	f3e403bb2bc7ea3b
+292	384	7471903558146432	webserver.exe	55561af687bb4f05
+9	424	7472681949989835	CMakeFiles/uchenici.dir/vezbi/uchenici.cpp.obj	38bc16f79bea6470
+425	534	7472681954152228	uchenici.exe	bb42b68fd1410cda
+318	419	7472754673059059	tennis.exe	c8b6384ec7687220
+4	309	7472759025341381	CMakeFiles/debitcard.dir/vezbi/DebitCard.cpp.obj	ab6a6d2c5a0654ba
+310	415	7472759028406869	debitcard.exe	ff75f94d63b5ec7a
+12	460	7473457525945376	CMakeFiles/card.dir/vezbi/card.cpp.obj	4c98e624b5d45610
+460	570	7473457530435684	card.exe	60924cc2e1e04ca
+7	416	7473492831920933	CMakeFiles/products.dir/vezbi/products.cpp.obj	66897adfdabd66f4
+419	541	7473492836037647	products.exe	48d3e1ae7a4b0cba
+439	644	7474272636832183	vezbi-ispit.exe	31f0834c17790af9
+4	420	7473619028597745	CMakeFiles/group.dir/vezbi/group.cpp.obj	73dac5d1390102fa
+425	572	7473619032811513	group.exe	dacecd3a44e287af
+5	434	7474272632489865	CMakeFiles/vezbi-ispit.dir/vezbi_ispit/finki-education.cpp.obj	64b110edd8d85221
